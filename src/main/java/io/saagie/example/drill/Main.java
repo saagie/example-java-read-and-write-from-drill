@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 public class Main {
 
 
-	private static final Logger logger = Logger.getLogger("io.saagie.example.drill.ReadWrite");
+	private static final Logger logger = Logger.getLogger("io.saagie.example.drill.Main");
 	private static final String JDBC_DRIVER_NAME = "org.apache.drill.jdbc.Driver";
 	private static String connectionUrl;
 
